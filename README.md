@@ -1,4 +1,6 @@
-to.doList.App {
+to.doList.App 
+
+{
   "name": "todolistapp",
   "Author": "Joseph Thomas",
   "Made With": "Expo",
@@ -6,7 +8,6 @@ to.doList.App {
     "Firebase": {
         "android": "Android App initiated in Firebase Project",
         "iOS": "iOS App initiated in Firebase Project",
-
         "Database": "Firebase Database initiated",
         "Authentication": "Firebase Autthentication enabled with email and password"
     },
