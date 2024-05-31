@@ -1,7 +1,10 @@
 // App.js
+import 'expo-dev-client';
 import React from 'react';
+import { StyleSheet } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
+
 import SignUp from './components/Authentication/SignUp';
 import Login from './components/Authentication/Login';
 import Home from './components/AppComponents/Home';
